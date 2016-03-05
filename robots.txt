@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://segfault5514.github.io/sitemap.xml 
